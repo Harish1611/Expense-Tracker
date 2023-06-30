@@ -1,0 +1,80 @@
+body {
+
+    background-image: url(https://wpadventure.com/wp-content/uploads/2018/07/Untitled-123.jpg);
+    background-size: cover;
+    font-family: 'Josefin Sans';
+    font-size: 22px;
+}
+
+.containerForm {
+
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+form label {
+    display: block;
+    margin-top: 10px;
+}
+
+form input,
+form select {
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+form button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+li .expense-details {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+li .edit-expense,
+li .delete-expense {
+    border: none;
+    background: none;
+    color: red;
+    cursor: pointer;
+}
+
+.btnet {
+
+    background-color: gray;
+    color: white;
+
+}
+
+label {
+    color: lightgrey;
+    font-weight: 500;
+    font-style: oblique;
+}
+
+.Heading {
+    padding: 10px;
+    color: blueviolet;
+    text-shadow: 1px 2px black;
+
+
+}
